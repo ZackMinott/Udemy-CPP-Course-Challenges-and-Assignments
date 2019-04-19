@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section 6 -- Challenge Cleaning Service", "Section 6 -- Challenge Cleaning Service\Section 6 -- Challenge Cleaning Service.vcxproj", "{FB138340-7998-420E-AF49-DA607B12152F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB138340-7998-420E-AF49-DA607B12152F}.Debug|x64.ActiveCfg = Debug|x64
+		{FB138340-7998-420E-AF49-DA607B12152F}.Debug|x64.Build.0 = Debug|x64
+		{FB138340-7998-420E-AF49-DA607B12152F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB138340-7998-420E-AF49-DA607B12152F}.Debug|x86.Build.0 = Debug|Win32
+		{FB138340-7998-420E-AF49-DA607B12152F}.Release|x64.ActiveCfg = Release|x64
+		{FB138340-7998-420E-AF49-DA607B12152F}.Release|x64.Build.0 = Release|x64
+		{FB138340-7998-420E-AF49-DA607B12152F}.Release|x86.ActiveCfg = Release|Win32
+		{FB138340-7998-420E-AF49-DA607B12152F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78DD7281-FFD0-4E0D-ADE0-6D18067DAA33}
+	EndGlobalSection
+EndGlobal
